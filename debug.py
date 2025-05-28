@@ -1,4 +1,4 @@
-from controllers import controller
+from controllers.controller import controller
 
 def main():
     print("Students enrolled in courses:")
